@@ -10,7 +10,7 @@ I'm currently diving deeper into advanced Angular concepts, exploring the latest
 I'm always open to collaborating on innovative frontend projects, particularly those involving Angular or other modern JavaScript frameworks. If you're working on something exciting, let's connect and create something amazing together!
 
 ## 📫 How to Reach Me
-Feel free to reach out to me via email at mbilalshafiq3@example.com, or connect with me on [LinkedIn](https:/www.linkedin.com/in/m-bilal-shafiq-a78659204).
+Feel free to reach out to me via email at mbilalshafiq3@gmail.com, or connect with me on [LinkedIn](https:/www.linkedin.com/in/m-bilal-shafiq-a78659204).
 
 ## 😄 Pronouns
 He/Him
